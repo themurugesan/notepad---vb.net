@@ -1,0 +1,16 @@
+C:\Users\Dell\source\repos\notepad\notepad\bin\Debug\net8.0-windows\notepad.exe
+C:\Users\Dell\source\repos\notepad\notepad\bin\Debug\net8.0-windows\notepad.deps.json
+C:\Users\Dell\source\repos\notepad\notepad\bin\Debug\net8.0-windows\notepad.runtimeconfig.json
+C:\Users\Dell\source\repos\notepad\notepad\bin\Debug\net8.0-windows\notepad.dll
+C:\Users\Dell\source\repos\notepad\notepad\bin\Debug\net8.0-windows\notepad.pdb
+C:\Users\Dell\source\repos\notepad\notepad\obj\Debug\net8.0-windows\notepad.Form1.resources
+C:\Users\Dell\source\repos\notepad\notepad\obj\Debug\net8.0-windows\notepad.vbproj.GenerateResource.cache
+C:\Users\Dell\source\repos\notepad\notepad\obj\Debug\net8.0-windows\notepad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\notepad\notepad\obj\Debug\net8.0-windows\notepad.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\notepad\notepad\obj\Debug\net8.0-windows\notepad.AssemblyInfo.vb
+C:\Users\Dell\source\repos\notepad\notepad\obj\Debug\net8.0-windows\notepad.vbproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\notepad\notepad\obj\Debug\net8.0-windows\notepad.dll
+C:\Users\Dell\source\repos\notepad\notepad\obj\Debug\net8.0-windows\refint\notepad.dll
+C:\Users\Dell\source\repos\notepad\notepad\obj\Debug\net8.0-windows\notepad.pdb
+C:\Users\Dell\source\repos\notepad\notepad\obj\Debug\net8.0-windows\notepad.genruntimeconfig.cache
+C:\Users\Dell\source\repos\notepad\notepad\obj\Debug\net8.0-windows\ref\notepad.dll
